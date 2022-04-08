@@ -1,0 +1,5 @@
+node_modules/
+# compiled tsc files
+*.js
+# vim swap files
+*.sw[pon]
